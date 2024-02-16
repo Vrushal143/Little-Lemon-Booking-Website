@@ -1,4 +1,4 @@
-# Little-Lemon-Booking-Website
+# Little Lemon Booking Website
 
 ## Project Description
 This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
@@ -10,7 +10,6 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
-![github-cover](https://github.com/Vrushal143/Little-Lemon-Booking-Website/assets/103166126/85edba55-6cf2-4db7-9159-5f20b606ace1)
-
+![little lemon website table booking](/src/images/github-cover.png)
 
 
